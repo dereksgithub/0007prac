@@ -1,6 +1,16 @@
-# 0007prac
-forQM2023practices
-Coding Python
+# QM Practical
 
-Cloned the repo in wsl,
+This repor is for quantatitive methods. 
+
+Contents will cover:
+    - Linear regression
+    - Logistic regression
+    - Hypothesis testing
+    - Linear porgromming
+    - Support vector machine
+    - Naive Bayesian 
+    - Random forest
+running the tutorials in a customized environment.
+
+
 
