@@ -1,6 +1,6 @@
 # QM Practical
 
-This repor is for quantatitive methods. 
+This repo is for quantatitive methods Fall 2023. 
 
 Contents will cover:
 * Linear regression
